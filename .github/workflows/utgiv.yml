@@ -11,7 +11,10 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
-      - run: npm install
-      - run: npm run deploy
+      # - uses: actions/setup-node@v2
+      # - run: npm install
+      # - run: npm run deploy
+      - uses: enriikke/gatsby-gh-pages-action@v2
+        with:
+          access-token: ${{secrets.ACCESS_TOKEN}}
     
