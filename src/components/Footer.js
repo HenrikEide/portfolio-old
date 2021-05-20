@@ -14,7 +14,7 @@ const Footer = () => {
           <a className="email-link" href={`mailto:${data.contactEmail}`}>
             {data.contactEmail}
           </a>
-          <div className="social-icons">
+          {/* <div className="social-icons">
             {data.social.map((socialLink, index) => (
               <a
                 key={index}
@@ -25,7 +25,7 @@ const Footer = () => {
                 <img src={socialLink.img} alt="icons"></img>
               </a>
             ))}
-          </div>
+          </div> */}
           <span>
             Made With <icon>❤</icon> by{" "}
             <a href="https://www.chetanverma.com/">Chetan Verma</a>
