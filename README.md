@@ -1,3 +1,5 @@
+[![Deploy Site](https://github.com/HenrikEide/portfoliosite/actions/workflows/utgiv.yml/badge.svg)](https://github.com/HenrikEide/portfoliosite/actions/workflows/utgiv.yml)
+
 ## My homepage/portfolio
 
 Contains information about myself.
