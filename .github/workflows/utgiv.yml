@@ -13,6 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v2
+      - uses: actions/cache@v2
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
       - run: npm install
       - run: npm install gatsby
       - run: npm run build
