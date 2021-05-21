@@ -16,7 +16,7 @@ jobs:
       - uses: actions/cache@v2
         with:
           path: .github-cache
-          key: owning-the-libs
+          key: caching-nothing
       - run: npm install
       - run: npm install gatsby
       - run: npm run build
