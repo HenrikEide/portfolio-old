@@ -22,9 +22,9 @@ export default {
     //Line 1 For Header
     "Data science",
     //Line 2 For Header
-    "and the lot",
+    "and the lot at",
     //Line 3 For Header
-    "at The University of Bergen",
+    "The University of Bergen",
   ],
   //   Header Paragraph
   headerParagraph:
