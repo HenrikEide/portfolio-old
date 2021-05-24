@@ -133,7 +133,7 @@ export default {
 
   //   End About Section ---------------------
   aboutParaOne:
-    "hehe heve eks ds",
+    "hehe heve eks ds", 
   // Skills Section ---------------
 
   //   Import Icons from the top and link it here
@@ -182,7 +182,7 @@ export default {
 
   //   Contact Section --------------
 
-  contactSubHeading: "Let's create your next experience together",
+  contactSubHeading: "Let's talk!",
   // social: [
   //   // Add Or Remove The Link Accordingly
   //   { img: githubIcon, url: "https://github.com/chetanverma16" },
