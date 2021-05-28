@@ -22,9 +22,9 @@ export default {
     //Line 1 For Header
     "Data science",
     //Line 2 For Header
-    "and the lot at",
+    "and the lot",
     //Line 3 For Header
-    "The University of Bergen",
+    "at UiB",
   ],
   //   Header Paragraph
   headerParagraph:
@@ -133,7 +133,7 @@ export default {
 
   //   End About Section ---------------------
   aboutParaOne:
-    "hehe heve eks ds", 
+    "The headlines are misleading, as this clearly contains no information about Henrik, only more lorem ipsum dummy text.", 
   // Skills Section ---------------
 
   //   Import Icons from the top and link it here

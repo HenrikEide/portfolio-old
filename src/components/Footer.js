@@ -26,7 +26,7 @@ const Footer = () => {
               </a>
             ))}
           </div> */}
-          <span>
+          <span >
             Made by {" "}
             <a href="https://github.com/HenrikEide">Henrik Eide</a>
           </span>
