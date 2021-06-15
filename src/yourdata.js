@@ -123,7 +123,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "The headlines are misleading, as this clearly contains no information about Henrik, only more lorem ipsum dummy text.",
   aboutParaTwo:
     "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
   aboutParaThree:
@@ -132,44 +132,20 @@ export default {
     "https://www.shitpostbot.com/img/sourceimages/this-meme-isnt-finished-yet-5a4e64e89a86c.png",
 
   //   End About Section ---------------------
-  aboutParaOne:
-    "The headlines are misleading, as this clearly contains no information about Henrik, only more lorem ipsum dummy text.", 
+   
   // Skills Section ---------------
 
   //   Import Icons from the top and link it here
 
-  // skills: [
-  //   {
-  //     img: htmlIcon,
-  //     para:
-  //       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-  //   },
-  //   {
-  //     img: cssIcon,
-  //     para:
-  //       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-  //   },
-  //   {
-  //     img: jsIcon,
-  //     para:
-  //       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-  //   },
-  //   {
-  //     img: reactIcon,
-  //     para:
-  //       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-  //   },
-  //   {
-  //     img: designIcon,
-  //     para:
-  //       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-  //   },
-  //   {
-  //     img: codeIcon,
-  //     para:
-  //       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-  //   },
-  // ],
+  P1ParaOne:
+    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+  P1ParaTwo:
+    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  P1ParaThree:
+    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+  P1Image:
+    "https://www.shitpostbot.com/img/sourceimages/this-meme-isnt-finished-yet-5a4e64e89a86c.png",
+  
 
   // End Skills Section --------------------------
 
