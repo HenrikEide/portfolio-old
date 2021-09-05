@@ -28,19 +28,32 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "23 year old student from Klepp, Rogaland. I study and sometimes also do other things.",
+    "24 year old student from Klepp, Rogaland. I study and sometimes also do other things.",
 
   //Contact Email
   contactEmail: "henrik225@gmail.com",
 
   // End Header Details -----------------------
 
+  // About Secton --------------
+  aboutParaOne:
+  "The headlines are misleading, as this clearly contains no information about Henrik, only more lorem ipsum dummy text.",
+  aboutParaTwo:
+    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  aboutParaThree:
+    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+  aboutImage:
+    "https://www.shitpostbot.com/img/sourceimages/this-meme-isnt-finished-yet-5a4e64e89a86c.png",
+
+  //   End About Section ---------------------
+
+
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "Weather app", //Project Title - Add Your Project Title Here
       para:
-        "School project. Socket programming with python to request and send weather data", // Add Your Service Type Here
+        "Group project. Socket programming with python to request weather data from a server, store it and send it to a client. We also made a webpage to improve readability of said data.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://imgur.com/0lee3wo.png",
@@ -49,34 +62,34 @@ export default {
       // //Github repo link
       // githubLink: "https://github.com",
       links: [
-        {text: "Gander", url: "http://chetanverma.com/"},
+        {text: "Gander", url: "http://group30.codes/"},
         {text: "Github", url: "https://github.com"}
       ],
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "Flutter app", //Project Title - Add Your Project Title Here
       para:
-        "Github workflow in action is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "First (serious) mobile app project. I am making a problems archive for learning python, specifically for ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://lh3.googleusercontent.com/proxy/LtcgVVH7U7s5q1PiibN-t3JQ1_4wmxa9LYtP-Yc8dC47SWF_qU9Uq4orB7nN8H-v34ijtl3Hyg5pmMUVQ4cQbBppDODgTwUgZMfD",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
       links: [
-        {text: "Gander", url: "http://chetanverma.com/"},
+        {text: "Gander", url: "http://group30.codes"},
         {text: "Github", url: "https://github.com"}
       ],
     },
-    {
-      title: "Project Three", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
+    // {
+    //   title: "Project Three", //Project Title - Add Your Project Title Here
+    //   para:
+    //     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc:
+    //     "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+    //   //Project URL - Add Your Project Url Here
+    //   url: "http://chetanverma.com/",
+    // },
     // {
     //   title: "Project Four", //Project Title - Add Your Project Title Here
     //   para:
@@ -121,17 +134,7 @@ export default {
 
   // End Work Section -----------------------
 
-  // About Secton --------------
-  aboutParaOne:
-    "The headlines are misleading, as this clearly contains no information about Henrik, only more lorem ipsum dummy text.",
-  aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-  aboutImage:
-    "https://www.shitpostbot.com/img/sourceimages/this-meme-isnt-finished-yet-5a4e64e89a86c.png",
-
-  //   End About Section ---------------------
+  
    
   // Skills Section ---------------
 

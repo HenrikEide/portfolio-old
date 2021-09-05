@@ -22,7 +22,7 @@ const Skills = () => {
             </p>
           </div>
           <div className="image-wrapper">
-            <img src={data.P1Image} height="500" alt="about"></img>
+            <img src={data.P1Image} height="350" alt="about"></img>
           </div>
         </div>
       </div>

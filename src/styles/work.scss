@@ -1,6 +1,6 @@
 .work-wrapper {
   width: 80vw;
-  margin-top: 10vh;
+  margin-top: 15vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -10,9 +10,9 @@
   }
   .grid {
     display: grid;
-    margin-top: 20px;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
+    margin-top: 30px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
     @include media(">=phone", "<lgphone") {
       grid-template-columns: 1fr;
     }
