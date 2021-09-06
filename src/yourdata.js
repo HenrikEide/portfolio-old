@@ -41,9 +41,9 @@ export default {
   aboutParaTwo:
     "The university is a breeding pod of information, a conglomeration of people knowledgeable in heaps of subjects and languages, and as I am really passionate about learning new things it is by far my favorite environment to indulge in.",
   aboutParaThree:
-    "My choice things currently are data science/statistics/machine learning with Python, solving problems with functional programming in Haskell, developing in Flutter w/dart, and trying to learn React and Gatsby with this site.",
+    "My choice things are data science/statistics/machine learning with Python, solving problems with functional programming in Haskell, developing in Flutter w/dart, and trying to learn React and Gatsby with this site.",
   aboutImage:
-    "https://www.shitpostbot.com/img/sourceimages/this-meme-isnt-finished-yet-5a4e64e89a86c.png",
+    "https://www.pngrepo.com/download/80953/three-dots-menu.png",
 
   //   End About Section ---------------------
 
@@ -156,7 +156,7 @@ export default {
 
   promotionHeading: "Final thoughts",
   promotionPara:
-  "If you have read (or scrolled) this far and are even slightly intrigued, we should talk! Send me an email, I would love to continue the conversation both ways, either over phone or the preferred medium of your choice.",
+  "If you have read (or scrolled) this far and are even slightly intrigued, we should talk! Send me an email, I would love to continue this as a conversation, either over phone or the preferred medium of your choice.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
