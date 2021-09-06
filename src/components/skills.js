@@ -9,7 +9,7 @@ const Skills = () => {
         <div className="about-section">
           <div className="content">
             <Fade bottom cascade>
-              <h1>Project 1</h1>
+              <h1>Ipsum</h1>
             </Fade>
             <p>
               {data.P1ParaOne}
