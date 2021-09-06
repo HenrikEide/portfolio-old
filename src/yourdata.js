@@ -37,11 +37,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-  "The headlines are misleading, as this clearly contains no information about Henrik, only more lorem ipsum dummy text.",
+    "I first started my programming career after a friend recommended I take a online intro course in python, a year later I started the undergrad in informatics I am currently attending.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "The university is a breeding pod of information, a conglomeration of people knowledgeable in heaps of subjects and languages, and as I am really passionate about learning new things it is by far my favorite environment to indulge in.",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "My choice things currently are data science/statistics/machine learning with Python, solving problems with functional programming in Haskell, developing in Flutter w/dart, and trying to learn React and Gatsby with this site.",
   aboutImage:
     "https://www.shitpostbot.com/img/sourceimages/this-meme-isnt-finished-yet-5a4e64e89a86c.png",
 
@@ -63,16 +63,16 @@ export default {
       // githubLink: "https://github.com",
       links: [
         {text: "Gander", url: "http://group30.codes/"},
-        {text: "Github", url: "https://github.com"}
+        {text: "Github", url: "https://github.com/StaleJ/WeatherSim"}
       ],
     },
     {
       title: "Flutter app", //Project Title - Add Your Project Title Here
       para:
-        "First (serious) mobile app project. I am making a problems archive for learning python, specifically for ", // Add Your Service Type Here
+        "In development. First (serious) mobile app project. A problems archive for practicing python, somewhat catered to science majors, based on a intro to programming course at my faculty.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://lh3.googleusercontent.com/proxy/LtcgVVH7U7s5q1PiibN-t3JQ1_4wmxa9LYtP-Yc8dC47SWF_qU9Uq4orB7nN8H-v34ijtl3Hyg5pmMUVQ4cQbBppDODgTwUgZMfD",
+        "https://i.imgur.com/NY79BID.jpg",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
       links: [
