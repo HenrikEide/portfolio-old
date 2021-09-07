@@ -28,7 +28,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "24 year old informatics student from Klepp, Rogaland. Welcome to this page. If you are on mobile I am so sorry.",
+    "24 year old informatics student from Klepp, Rogaland. Welcome, if you are on mobile I am so sorry, I am still working on this.",
 
   //Contact Email
   contactEmail: "henrik225@gmail.com",
@@ -156,7 +156,7 @@ export default {
 
   promotionHeading: "Closing words",
   promotionPara:
-  "If you have read (or scrolled) this far and are even slightly intrigued, we should talk! Send me an email, I would love to continue this as a conversation, either over phone or the preferred medium of your choice.",
+  "If you have read (or scrolled) this far and are even slightly intrigued, we should talk! Send me an email, I would love to start a conversation, either over phone or the preferred medium of your choice.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
