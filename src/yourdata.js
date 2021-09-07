@@ -28,7 +28,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "24 year old student from Klepp, Rogaland. I study and sometimes also do other things.",
+    "24 year old informatics student from Klepp, Rogaland. Welcome to this page. If you are on mobile I am so sorry.",
 
   //Contact Email
   contactEmail: "henrik225@gmail.com",
@@ -41,7 +41,7 @@ export default {
   aboutParaTwo:
     "The university is a breeding pod of information, a conglomeration of people knowledgeable in heaps of subjects and languages, and as I am really passionate about learning new things it is by far my favorite environment to indulge in.",
   aboutParaThree:
-    "My choice things are data science/statistics/machine learning with Python, solving problems with functional programming in Haskell, developing in Flutter w/dart, and trying to learn React and Gatsby with this site.",
+    "My current interests include data science/statistics/machine learning with Python, solving problems with functional programming in Haskell, developing in Flutter w/dart, and trying to learn React and Gatsby with this site.",
   aboutImage:
     "https://www.pngrepo.com/download/80953/three-dots-menu.png",
 
@@ -154,7 +154,7 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Final thoughts",
+  promotionHeading: "Closing words",
   promotionPara:
   "If you have read (or scrolled) this far and are even slightly intrigued, we should talk! Send me an email, I would love to continue this as a conversation, either over phone or the preferred medium of your choice.",
   // End Promotion Section -----------------
