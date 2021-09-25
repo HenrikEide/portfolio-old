@@ -91,7 +91,7 @@ export default {
     {
       title: "This webpage", //Project Title - Add Your Project Title Here
       para:
-        "Still under construction. This site is inspired by a template with react+gatsby, but when I have time I want to make it myself from scratch. Also my first time using github actions to auto-deploy my site to github pages.", // Add Your Service Type Here
+        "Still under construction. This site is inspired by a react+gatsby templace, but when I have more free time I want to make it myself from scratch. Also my first time using github actions to auto-deploy my site to github pages.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://i.imgur.com/MGFZyVu.png",
