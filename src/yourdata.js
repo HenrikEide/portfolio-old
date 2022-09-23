@@ -28,7 +28,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "24 year old informatics student from Klepp, Rogaland. Welcome, if you are on mobile I am so sorry, I am still working on this.",
+    "24 year old informatics student from Klepp, Rogaland. NB: Site last updated Sept 2021. Update is in the works",
 
   //Contact Email
   contactEmail: "henrik225@gmail.com",
